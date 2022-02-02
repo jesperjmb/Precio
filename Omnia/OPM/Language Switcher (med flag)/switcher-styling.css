@@ -1,0 +1,77 @@
+/*Remember to add the relevant classes to the language switcher HTML block*/
+
+/*Following is optional styiling of the switcher*/
+.process-language-switcher {
+    margin-top:-44px;
+}
+.process-language-switcher .v-sheet{
+    background-color: rgba(255,255,255,0) !important;
+}
+.process-language-switcher .v-card__title {
+    display: none;
+}
+.process-language-switcher .v-text-field__details {
+    display: none;
+}
+.process-language-switcher .v-card__text {
+    padding:0;
+}
+
+/*Following to add flags for specified countries*/
+.process-language-switcher-flag {
+    display: flex;
+    align-items:center;
+}
+.process-language-switcher-flag:before {
+    display: inline-block;
+    content:'';
+    width: 32px;
+    /*margin-left:auto;*/
+    height: 30px;
+    margin-right:10px;
+    background-image: url(/omnia/images/flags.png);
+    background-position: 1000px;
+    min-width: 32px;
+    min-height: 30px;
+}
+
+/*Following is each country's flag*/
+.process-language-switcher-flag-m365:before {
+    content: "\f05a" !important;
+    font-family: 'Font Awesome 5 Pro' !important;
+    padding-top:6px;
+    padding-left:6px;
+}
+.process-language-switcher-flag-us:before {
+    background-position: -352px -416px !important;
+}
+.process-language-switcher-flag-dk:before {
+    background-position: -160px -96px !important;
+}
+.process-language-switcher-flag-se:before {
+    background-position: -384px -352px !important;
+}
+.process-language-switcher-flag-se:before {
+    background-position: -384px -352px !important;
+}
+.process-language-switcher-flag-no:before {
+    background-position: 0 -320px !important;
+}
+.process-language-switcher-flag-gb:before {
+    background-position: -224px -128px !important;
+}
+.process-language-switcher-flag-de:before {
+    background-position: -96px -96px !important;
+}
+.process-language-switcher-flag-fr:before {
+    background-position: -160px -128px !important;
+}
+.process-language-switcher-flag-au:before {
+    background-position: -384px 0 !important;
+}
+.process-language-switcher-flag-my:before {
+    background-position: -224px -288px !important;
+}
+.process-language-switcher-flag-tn:before {
+    background-position: -64px -416px !important;
+}
