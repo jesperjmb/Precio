@@ -1,0 +1,8 @@
+/*Tilføjer en horizontal scrollbar til tabeller så de let kan ses på telefon. Store tabeller er normalt ikke brugervenlige på telefon.*/
+/* Små enheder mindre end 992px */
+@media (max-width: 992px) { 
+    .custom-block-class table {
+        display: block;
+        overflow-x: auto;
+    }
+ }
