@@ -1,0 +1,6 @@
+/*Tilføjer et lille ikon nederst til højre i kode editors (eksempelvis i Workspace > Footer) som gør det muligt at resize vinduet, som normalt ellers altid er 300px i højde*/
+/*Koden kan gøres mere specifik ved at filøje en class, så den eksempelvis kun gælder Workspace/Admin i backend eller for en specifik HTML/SCRIPT block*/
+[data-mode-id="css"], [data-mode-id="html"], [data-mode-id="javascript"] {
+  overflow-y: auto;
+  resize: vertical;
+}
