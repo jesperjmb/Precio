@@ -26,7 +26,7 @@ Følgende tilføjelse til et flow gør det muligt automatisk at vedhæfte en ell
 }
 ```
 
-7. Opret **Send an email** og tilføj array til **Attachments **under **advanced options**.
+7. Opret **Send an email** og tilføj array til **Attachments** under **advanced options**.
 
 
 
