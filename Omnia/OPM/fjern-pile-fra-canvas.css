@@ -1,0 +1,7 @@
+/*Fjerner pile på canvas. Use case er eksempelvis hvis canvas kun er et par pixel større end sektionen og pile derfor ikke er nødvendige*/
+/*Fjerner pile på skræme der er større end 1900px. Skærmestørrelse kan tilrettes eller helt fjernes.*/
+@media only screen and (min-width: 1900px) {
+    .canvas-block-custom-class .v-btn--contained{
+        visibility:hidden;
+    }
+}
