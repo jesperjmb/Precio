@@ -30,6 +30,6 @@ Følgende tilføjelse til et flow gør det muligt automatisk at vedhæfte en ell
 
 
 
-### Flow example
+### Flow eksempel
 
 ![power-automate-multiple-mail-attachments](https://user-images.githubusercontent.com/47186052/153599230-22be6147-44c8-466c-a98a-cfc2b3bdeb1e.png)
