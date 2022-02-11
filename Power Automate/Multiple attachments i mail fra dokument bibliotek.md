@@ -4,7 +4,7 @@ Følgende tilføjelse til et flow gør det muligt automatisk at vedhæfte en ell
 
 1. Opret en **trigger**
 
-2. Get files fra det relevante **document library**
+2. **Get files** fra det relevante **document library**
 
 3. Opret et nyt array via **Initialize variable**
 
@@ -12,7 +12,7 @@ Følgende tilføjelse til et flow gør det muligt automatisk at vedhæfte en ell
 
 5. Get file content i **Apply to each**
 
-6. Opret en ny **Append to array variable** tilknyttet det array oprettet i step 3
+6. Opret en ny **Append to array variable** tilknyttet det array der blev oprettet i step 3
    
    Dette array skal have følgende **Value**
 
