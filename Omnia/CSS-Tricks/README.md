@@ -1,1 +1,2 @@
-# En oversigt over diverse små css tricks der kan tilføjes til Omnia. Filerne er navngivet efter deres funktion.
+# CSS Tricks til Omnia
+ En oversigt over diverse små css tricks der kan tilføjes til Omnia. Filerne er navngivet efter deres funktion.
