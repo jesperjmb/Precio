@@ -1,20 +1,17 @@
 /*Nedenstående er standard breakpoints der passer til de fleste mobiler, tablets og skærme. De er baseret på Boostrap 5.0. 
 Kan gøres mere specifikke ved også at tilføje min-width*/
 
-/*X-Small devices (portrait phones, less than 576px)*/
-// No media query for `xs` since this is the default in Bootstrap
-
-/*Small devices (landscape phones, 576px and down)*/
+/*Mindre enheder (ekstra små enheder, 576px og ned)*/
 @media (max-width: 576px) { ... }
 
-/*Medium devices (tablets, 768px and down)*/
+/*Medium enheder (mobiler, 768px og ned)*/
 @media (max-width: 768px) { ... }
 
-/*Large devices (desktops, 992px and down)*/
+/*Store enheder (tablets, 992px og ned)*/
 @media (max-width: 992px) { ... }
 
-/*X-Large devices (large desktops, 1200px and down)*/
+/*X-Store enheder (desktops, 1200px og ned)*/
 @media (max-width: 1200px) { ... }
 
-/*XX-Large devices (larger desktops, 1200px and up)*/
+/*XX-Store enheder (store desktops, 1200px og ned)*/
 @media (min-width: 1201px) { ... }
