@@ -1,0 +1,5 @@
+/*Tilføjer et linjeskifte til Flow Checker errors, så hele beskeden kan ses
+Kan eksempelvis tilføjet via Inspector eller Stylebot extension*/
+.fl-OperationAlertCell-errorMessage {
+  white-space: break-spaces;
+}
