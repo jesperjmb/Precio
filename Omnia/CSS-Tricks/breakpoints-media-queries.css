@@ -1,5 +1,5 @@
 /*Nedenstående er standard breakpoints der passer til de fleste mobiler, tablets og skærme. De er baseret på Boostrap 5.0. 
-Kan gøres mere specifikke ved også at tilføje min-width*/
+Kan gøres mere specifikke ved også at tilføje min-width. Udskift "..." med egen CSS*/
 
 /*Mindre enheder (ekstra små enheder, 576px og ned)*/
 @media (max-width: 576px) { ... }
