@@ -13,5 +13,5 @@ Kan gøres mere specifikke ved også at tilføje min-width. Udskift "..." med eg
 /*X-Store enheder (desktops, 1200px og ned)*/
 @media (max-width: 1200px) { ... }
 
-/*XX-Store enheder (store desktops, 1200px og ned)*/
+/*XX-Store enheder (store desktops, 1200px og op)*/
 @media (min-width: 1201px) { ... }
