@@ -1,0 +1,186 @@
+{
+    "node": {
+        "page": {
+            "id": 1207,
+            "securityResourceId": "cd195637-b0dd-4207-82d5-c084beb01f25",
+            "pageType": 1,
+            "publishingAppId": "ba8fe46a-71f4-4fda-aa1e-efb798fc99c8",
+            "spItemId": 70,
+            "checkedOutBy": "",
+            "checkedOutDraftVersion": null,
+            "publishedBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+            "latestPublishedVersion": {
+                "versionId": 3895,
+                "dependentOnLayoutVersionId": 1539,
+                "dependentOnExternalLayoutVersionIdentifier": null
+            },
+            "latestDraftVersion": {
+                "versionId": 3894,
+                "dependentOnLayoutVersionId": 1539,
+                "dependentOnExternalLayoutVersionIdentifier": null
+            },
+            "pageCollectionId": 1200,
+            "hiddenByPageId": null,
+            "createdBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+            "modifiedBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+            "createdAt": "2022-06-20T06:26:24.8254529+00:00",
+            "modifiedAt": "2022-06-20T06:26:50.1030173+00:00",
+            "deletedAt": null
+        },
+        "path": "movable1/moveme4",
+        "publishingAppUrlSegment": "/_/jesper-dev",
+        "id": 1203,
+        "pageId": 1207,
+        "position": {
+            "parentNodeId": 1196,
+            "afterNodeId": 1202,
+            "beforeNodeId": 1198
+        },
+        "publishingAppId": "ba8fe46a-71f4-4fda-aa1e-efb798fc99c8",
+        "navigationData": {
+            "pageId": 1207,
+            "urlSegment": "moveme4",
+            "type": 1,
+            "rendererId": "5f707a83-4594-4218-8569-30b26d67948e",
+            "hideInMegaMenu": false,
+            "hideInCurrentNavigation": false,
+            "msTeamsUrl": null,
+            "title": {
+                "0": "Moveme4"
+            }
+        },
+        "childCount": 0,
+        "publishedChildCount": 0,
+        "orderValue": 3,
+        "navigationNodeType": 1,
+        "createdBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+        "modifiedBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+        "createdAt": "2022-06-20T06:26:25.2231286+00:00",
+        "modifiedAt": "2022-06-20T06:26:25.2231286+00:00",
+        "deletedAt": null
+    },
+    "newPosition": {
+        "parent": {
+            "page": {
+                "id": 1201,
+                "securityResourceId": "0aad6b3e-1936-4d0b-805a-083f2e3de3b4",
+                "pageType": 4,
+                "publishingAppId": "ba8fe46a-71f4-4fda-aa1e-efb798fc99c8",
+                "spItemId": 36,
+                "checkedOutBy": "",
+                "checkedOutDraftVersion": null,
+                "publishedBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+                "latestPublishedVersion": {
+                    "versionId": 3893,
+                    "dependentOnLayoutVersionId": null,
+                    "dependentOnExternalLayoutVersionIdentifier": null
+                },
+                "latestDraftVersion": {
+                    "versionId": 3892,
+                    "dependentOnLayoutVersionId": null,
+                    "dependentOnExternalLayoutVersionIdentifier": null
+                },
+                "pageCollectionId": null,
+                "hiddenByPageId": null,
+                "createdBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+                "modifiedBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+                "createdAt": "2022-06-16T08:52:40.4425237+00:00",
+                "modifiedAt": "2022-06-17T12:37:09.7398602+00:00",
+                "deletedAt": null
+            },
+            "path": "movable2",
+            "publishingAppUrlSegment": "/_/jesper-dev",
+            "id": 1197,
+            "pageId": 1201,
+            "position": {
+                "parentNodeId": null,
+                "afterNodeId": 1196,
+                "beforeNodeId": null
+            },
+            "publishingAppId": "ba8fe46a-71f4-4fda-aa1e-efb798fc99c8",
+            "navigationData": {
+                "type": 4,
+                "rendererId": "cddba0c5-6c7c-469e-82b8-685cec3723d3",
+                "childStructureType": 0,
+                "pageId": 1201,
+                "urlSegment": "movable2",
+                "hideInMegaMenu": false,
+                "hideInCurrentNavigation": false,
+                "msTeamsUrl": null,
+                "title": {
+                    "0": "Movable2"
+                }
+            },
+            "childCount": 2,
+            "publishedChildCount": 2,
+            "orderValue": null,
+            "navigationNodeType": 3,
+            "createdBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+            "modifiedBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+            "createdAt": "2022-06-16T08:52:40.4540225+00:00",
+            "modifiedAt": "2022-06-16T08:52:40.4540225+00:00",
+            "deletedAt": null
+        },
+        "after": {
+            "page": {
+              "id": 1205,
+              "securityResourceId": "0aad6b3e-1936-4d0b-805a-083f2e3de3b4",
+              "pageType": 1,
+              "publishingAppId": "ba8fe46a-71f4-4fda-aa1e-efb798fc99c8",
+              "spItemId": 84,
+              "checkedOutBy": "",
+              "checkedOutDraftVersion": null,
+              "publishedBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+              "latestPublishedVersion": {
+                "versionId": 3885,
+                "dependentOnLayoutVersionId": 1539,
+                "dependentOnExternalLayoutVersionIdentifier": null
+              },
+              "latestDraftVersion": {
+                "versionId": 3884,
+                "dependentOnLayoutVersionId": 1539,
+                "dependentOnExternalLayoutVersionIdentifier": null
+              },
+              "pageCollectionId": 1201,
+              "hiddenByPageId": null,
+              "createdBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+              "modifiedBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+              "createdAt": "2022-06-17T10:49:46.9721874+00:00",
+              "modifiedAt": "2022-06-17T10:50:09.847515+00:00",
+              "deletedAt": null
+            },
+            "path": "movable2/moveme3",
+            "publishingAppUrlSegment": "/_/jesper-dev",
+            "id": 1201,
+            "pageId": 1205,
+            "position": {
+              "parentNodeId": 1197,
+              "afterNodeId": 1200,
+              "beforeNodeId": null
+            },
+            "publishingAppId": "ba8fe46a-71f4-4fda-aa1e-efb798fc99c8",
+            "navigationData": {
+              "pageId": 1205,
+              "urlSegment": "moveme3",
+              "type": 1,
+              "rendererId": "5f707a83-4594-4218-8569-30b26d67948e",
+              "hideInMegaMenu": false,
+              "hideInCurrentNavigation": false,
+              "msTeamsUrl": null,
+              "title": {
+                "0": "Moveme3"
+              }
+            },
+            "childCount": 0,
+            "publishedChildCount": 0,
+            "orderValue": 2,
+            "navigationNodeType": 1,
+            "createdBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+            "modifiedBy": "daisy.devops@preciodevlatest.onmicrosoft.com",
+            "createdAt": "2022-06-17T10:49:47.2437466+00:00",
+            "modifiedAt": "2022-06-17T10:55:09.6066358+00:00",
+            "deletedAt": null
+          },
+        "before": null
+    }
+}
