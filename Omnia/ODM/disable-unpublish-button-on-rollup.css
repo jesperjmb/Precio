@@ -1,0 +1,6 @@
+/*Disable the Unpublish button that are shown when when clicking the info (?) icon on document rollup. Create Draft will still be usable*/
+div[role=document] .v-btn--contained:first-of-type:not(:last-of-type) {
+    opacity: 0.5;
+    pointer-events: none;
+    background-color: gray !important;
+}
